@@ -1,5 +1,5 @@
 # Customer-Segmentation-Analysis
-In project is about segment the customers and define some strategies for them using the RFM model and K-means clustering method.
+In project is about segment the customers using the RFM model and K-means clustering method.
 
 The project was completed under the study and reference of many sources.
 
