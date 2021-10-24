@@ -17,6 +17,8 @@ Project instructor will walk you through these steps:
 
 4. Evaluating & Visualizing our analysis results using Seaborn and Matplotlib.
 
+Here is my report: [CUSTOMER SEGMENTATION BY USING RFM MODEL AND CLUSTERING METHODS](https://drive.google.com/drive/u/3/folders/1nZIlQfLqYvk6B1594WACoh-_CoBRfhos)
+
  **Note:**
-*The project was completed under the study and reference of many sources. If there is anything you don't understand, do not hesitate to contact me so that I may send you a detailed report.*
+*The project was completed under the study and reference of many sources. If there is anything you don't understand, do not hesitate to contact me. *
 
